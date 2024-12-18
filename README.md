@@ -1,2 +1,2 @@
 # blog
-only sharing method that seems to work
+backup of the blog
